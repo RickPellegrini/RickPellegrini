@@ -2,16 +2,14 @@ Hi there 👋
 
 Welcome to my profile!
 
-🔭 I’m currently working as a Creative Developer at Upcraft Crew
+🔭 I’m currently working as a Fullstack Developer
 
-🌱 I’m currently learning GSAP, Three.js, HTML & CSS, JavaScript
+🌱 I’m currently working with Convex, Next.js and a bunch o libs
 
-👯 I’m building and growing projects at Upcraft Crew
+🤔 I'm looking for help with backend architecture and data modeling ideas
 
-🤔 I’m looking for help with new design ideas and creative interactions
-
-💬 Ask me about games, sports, creative coding, and web experiences
+💬 Ask me about games, sports, coding.
 
 📫 How to reach me: email | WhatsApp | DM
 
-⚡ Fun fact: I treat creative dev like an RPG — design is my magic, code is my weapon.
+⚡ Fun fact: I treat coding like an RPG — design is my magic, code is my weapon.
